@@ -29,6 +29,7 @@ This is a task tracker application built using React, a popular JavaScript libra
 LinkedIn: https://www.linkedin.com/in/osezeleiboi/
 Twitter: https://twitter.com/ejemeniboi
 
-LIVE SITE: 
+LIVE SITE: https://1732-task-tracker.netlify.app/
+
 Thank you for using the React Task Tracker Application!
 
