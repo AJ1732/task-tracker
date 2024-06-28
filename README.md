@@ -1,10 +1,10 @@
-A React Application used to track tasks...obviously 
-
-# React Task Tracker Application
+# Task Tracker Application
 
 This is a task tracker application built using React, a popular JavaScript library for building user interfaces. The application allows users to create and delete tasks, helping them stay organized and manage their daily activities effectively.
 
-LIVE SITE: https://1732-task-tracker.netlify.app/
+## Demo
+
+Check out the live demo of the project [here](https://1732-task-tracker.netlify.app/).
 
 ## Features
 
@@ -28,8 +28,8 @@ LIVE SITE: https://1732-task-tracker.netlify.app/
 9. Set reminders for tasks by specifying a due date. 
 
 ## Contact
-LinkedIn: https://www.linkedin.com/in/osezeleiboi/
-Twitter: https://twitter.com/ejemeniboi
+[LinkedIn](https://www.linkedin.com/in/osezeleiboi/)
+[Twitter](https://twitter.com/ejemeniboi)
 
 Thank you for using the React Task Tracker Application!
 
